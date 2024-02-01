@@ -3,3 +3,4 @@ numpy
 pillow
 matplotlib
 nbstripout==0.6.1
+jupyterthemes
